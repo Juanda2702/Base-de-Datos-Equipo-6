@@ -15,5 +15,5 @@ Este repositorio contiene los entregables prácticos para el diseño, modelado y
 * **Preprocesamiento ETL:** Python 3.x, Pandas, NumPy.
 
 ## Instrucciones de Ejecución
-1. Ejecutar el script `limpieza_datos.py` para generar el archivo preprocesado en la carpeta `/datos`.
+1. Ejecutar el script `limpieza_datos.py` para generar el archivo preprocesado en la carpeta `/datos_limpios`.
 2. Importar el archivo `esquema_dw.sql` en una instancia de MySQL para generar las tablas de dimensiones y hechos.
