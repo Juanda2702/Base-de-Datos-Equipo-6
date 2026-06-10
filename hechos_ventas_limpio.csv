@@ -1,0 +1,6 @@
+id_venta,fecha,ciudad,monto_total,descuento
+101,2026-12-05,Ciudad De Mexico,1500.5,150.0
+102,2026-05-13,Monterrey,2300.0,0.0
+103,2026-05-14,Guadalajara,350.75,0.0
+104,2026-05-15,Monterrey,4500.0,0.0
+105,2026-05-16,Cancún,120.0,10.0
